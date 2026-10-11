@@ -1,0 +1,24 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary checkpoint files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local databases (we will use one later)
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
